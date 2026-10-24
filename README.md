@@ -1,4 +1,4 @@
-#Bus Ticket Booking & Reservation System
+## Bus Ticket Booking & Reservation System
 
 A clean, menu-driven command-line application that lets passengers explore bus routes, reserve seats, cancel bookings, and review reservation reports, all built with core Python.
 
