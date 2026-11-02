@@ -82,5 +82,8 @@ smart-bus-reservation-system
 ## Author
 
 Rammal Ahmed
+
+AI & Data Science Enthusiast | Microsoft Dynamics 365 CRM Developer | UI/UX Designer | Graphic Designer & Illustrator | Power Platform
+
 LinkedIn: www.linkedin.com/in/rammal-ahmed-58184b325
 GitHub: https://github.com/Rammal-Ahmed
