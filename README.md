@@ -81,9 +81,19 @@ smart-bus-reservation-system
 
 ## Author
 
-Rammal Ahmed
+**Rammal Ahmed**
 
 AI & Data Science Enthusiast | Microsoft Dynamics 365 CRM Developer | UI/UX Designer | Graphic Designer & Illustrator | Power Platform
 
-LinkedIn: www.linkedin.com/in/rammal-ahmed-58184b325
-GitHub: https://github.com/Rammal-Ahmed
+[LinkedIn] www.linkedin.com/in/rammal-ahmed-58184b325
+[GitHub] https://github.com/Rammal-Ahmed
+
+---
+
+## License
+
+This project is licensed under the **GNU Affero General Public License v3.0 (AGPL-3.0)**. See the [LICENSE](LICENSE) file for details.
+
+---
+
+**Project Status:** Completed
